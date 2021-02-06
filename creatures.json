@@ -6,7 +6,8 @@
 			"ja":"アフリカマイマイ",
 			"ko":"아카티나",
 			"ru":"Ахатина",
-			"zh":"玛瑙螺"
+			"zh":"玛瑙螺",
+			"pt-br":"Achatina"
 		}
 	},
 	"allosaurus":{
@@ -87,7 +88,8 @@
 			"ja":"アルゲンタヴィス",
 			"ko":"아르젠타비스",
 			"ru":"Аргентавис",
-			"zh":"阿根廷巨鹰"
+			"zh":"阿根廷巨鹰",
+			"pt-br":"Argentavis"
 		}
 	},
 	"arthropluera":{
@@ -96,13 +98,15 @@
 			"ja":"アースロプレウラ",
 			"ko":"아트로플레우라",
 			"ru":"Артроплевра",
-			"zh":"古马陆"
+			"zh":"古马陆",
+			"pt-br":"Arthropleura"
 		}
 	},
 	"astrocetus":{
 		"name_t":{
 			"fr":"Astrocetus",
-			"zh":"虚空鲸"
+			"zh":"虚空鲸",
+			"pt-br":"Astrocetus"
 		}
 	},
 	"attackdrone":{
@@ -135,7 +139,7 @@
 			"it":"Basilisco",
 			"ja":"バジリスク",
 			"ko":"바실리스크",
-			"pt-br":"Basilísco",
+			"pt-br":"Basilisco",
 			"ru":"Василиск",
 			"zh":"毒蜥"
 		}
@@ -158,7 +162,8 @@
 			"ja":"ベールゼブフォ",
 			"ko":"벨저부포",
 			"ru":"Жаба",
-			"zh":"魔鬼蛙"
+			"zh":"魔鬼蛙",
+			"pt-br":"Beelzebufo"
 		}
 	},
 	"bladewasp":{
@@ -173,7 +178,8 @@
 			"es":"Acechador sangriento",
 			"ja":"ブラッドストーカー",
 			"zh":"血蛛",
-			"fr":"Bloodstalker"
+			"fr":"Bloodstalker",
+			"pt-br":"Bloodstalker"
 		}
 	},
 	"brontosaurus":{
@@ -197,7 +203,8 @@
 			"ja":"ブルードマザー",
 			"ko":"브루드마더라이스릭스",
 			"ru":"Праматерь",
-			"zh":"育母蜘蛛"
+			"zh":"育母蜘蛛",
+			"pt-br":"Broodmother Lysrix"
 		}
 	},
 	"bulbdog":{
@@ -217,7 +224,8 @@
 			"ja":"カルボネミス",
 			"ko":"카르보네미스",
 			"ru":"Карбонемис",
-			"zh":"淡水碳龟"
+			"zh":"淡水碳龟",
+			"pt-br":"Carbonemys"
 		}
 	},
 	"carnotaurus":{
@@ -283,7 +291,8 @@
 			"ja":"コンプソグナトゥス",
 			"ko":"콤피",
 			"ru":"Компсогнат",
-			"zh":"美颌龙"
+			"zh":"美颌龙",
+			"pt-br":"Compy"
 		}
 	},
 	"crystalwyvern":{
@@ -307,7 +316,8 @@
 			"ja":"ダエオドン",
 			"ko":"다에오돈",
 			"ru":"Деодон",
-			"zh":"凶齿豨"
+			"zh":"凶齿豨",
+			"pt-br":"Daeodon"
 		}
 	},
 	"deathworm":{
@@ -319,7 +329,8 @@
 			"ja":"デスワーム",
 			"ko":"데스웜",
 			"ru":"Червь Смерти",
-			"zh":"死亡沙虫"
+			"zh":"死亡沙虫",
+			"pt-br":"Verme-da-morte"
 		}
 	},
 	"defenseunit":{
@@ -397,7 +408,7 @@
 			"it":"Diplocaulo",
 			"ja":"ディプロカウルス",
 			"ko":"디플로카울르스",
-			"pt-br":"Diplocaucus",
+			"pt-br":"Diplocaulus",
 			"ru":"Диплокаулус",
 			"zh":"盗首螈"
 		}
@@ -444,7 +455,7 @@
 			"fr":"Dodo",
 			"ja":"ドードー",
 			"ko":"도도",
-			"pt-br":"Dodo",
+			"pt-br":"Dodô",
 			"ru":"Додо",
 			"zh":"渡渡鸟"
 		}
@@ -456,7 +467,8 @@
 			"ja":"ドエディクルス",
 			"ko":"도에디쿠스",
 			"ru":"Дедикурус",
-			"zh":"星尾兽"
+			"zh":"星尾兽",
+			"pt-br":"Doedicurus"
 		}
 	},
 	"dragon":{
@@ -515,7 +527,8 @@
 			"fr":"Exécuteur",
 			"it":"Esecutore",
 			"zh":"执行者",
-			"ru":"Инфорсер"
+			"ru":"Инфорсер",
+			"pt-br":"Enforcer"
 		}
 	},
 	"equus":{
@@ -549,14 +562,16 @@
 			"ja":"フェザーライト",
 			"ko":"페더라이트",
 			"ru":"Яснокрыл",
-			"zh":"轻羽鸟"
+			"zh":"轻羽鸟",
+			"Pluma-luminosa"
 		}
 	},
 	"ferox":{
 		"name_t":{
 			"ja":"フェロックス",
 			"fr":"Ferox",
-			"zh":"猿狐"
+			"zh":"猿狐",
+			"pt-br":"Ferox
 		}
 	},
 	"foresttitan":{
@@ -597,6 +612,7 @@
 			"zh":"气囊虫",
 			"ko":"가스백",
 			"ru":"Газбагс"
+			"pt-br":"Gasbags"
 		}
 	},
 	"giantbee":{
@@ -646,7 +662,8 @@
 			"ja":"グロウバグ",
 			"ko":"빛벌래",
 			"ru":"Светлячок",
-			"zh":"发光虫"
+			"zh":"发光虫",
+			"pt-br":"Glowbug"
 		}
 	},
 	"glowtail":{
@@ -721,7 +738,8 @@
 			"ja":"イクチオサウルス",
 			"ko":"이크티오사우르스",
 			"ru":"Ихтиозавр",
-			"zh":"鱼龙"
+			"zh":"鱼龙",
+			"pt-br":"Ictiossauro"
 		}
 	},
 	"iguanodon":{
@@ -743,7 +761,8 @@
 			"ja":"トビネズミ",
 			"ko":"캥거루쥐",
 			"ru":"Тушканчик",
-			"zh":"跳鼠"
+			"zh":"跳鼠",
+			"pt-br":"Jerboa"
 		}
 	},
 	"jugbug":{
@@ -763,7 +782,8 @@
 			"fr":"Kairuku",
 			"ko":"카이루쿠",
 			"ru":"Кайруку",
-			"zh":"远古企鹅"
+			"zh":"远古企鹅",
+			"pt-br":"Kairuku"
 		}
 	},
 	"kaprosuchus":{
@@ -784,7 +804,8 @@
 			"ja":"カルキノス",
 			"ko":"카르키노스",
 			"ru":"Каркинос",
-			"zh":"巨蟹怪"
+			"zh":"巨蟹怪",
+			"pt-br":"Karkinos"
 		}
 	},
 	"kentrosaurus":{
@@ -878,7 +899,8 @@
 			"es":"Magmasaurio",
 			"fr":"Magmasaure",
 			"ja":"マグマサウルス",
-			"zh":"熔喉龙"
+			"zh":"熔喉龙",
+			"pt-br":"Magmasaur"
 		}
 	},
 	"mammoth":{
@@ -921,7 +943,8 @@
 			"ja":"マンティコア",
 			"ko":"만티코어",
 			"ru":"Мантикора",
-			"zh":"狮身蝎尾兽"
+			"zh":"狮身蝎尾兽",
+			"pt-br":"Mantícora"
 		}
 	},
 	"mantis":{
@@ -931,7 +954,8 @@
 			"ja":"カマキリ",
 			"ko":"사마귀",
 			"ru":"Богомол",
-			"zh":"螳螂"
+			"zh":"螳螂",
+			"pt-br":"Louva-a-Deus"
 		}
 	},
 	"megachelon":{
